@@ -1,4 +1,4 @@
-﻿# Figma_Podsum_wireframe
+﻿# Figma_Errors_wireframe
 
 Wire frame with newest chat gpt concept 
 
